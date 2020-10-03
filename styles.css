@@ -1,6 +1,8 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background: url('images/p3.jpg') ;
+   background-repeat: no-repeat;
+   background-size: 100%;
 }
 
 
